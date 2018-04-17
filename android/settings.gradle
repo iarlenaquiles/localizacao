@@ -1,0 +1,3 @@
+rootProject.name = 'localizacao'
+
+include ':app'
